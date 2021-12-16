@@ -1,0 +1,9 @@
+#mudazon-title {
+    font-family: "ITC Officina Sans"; src: url("//db.onlinewebfonts.com/t/554eb51fb39e99ff974dc72a87720400.eot"); src: url("//db.onlinewebfonts.com/t/554eb51fb39e99ff974dc72a87720400.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/554eb51fb39e99ff974dc72a87720400.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/554eb51fb39e99ff974dc72a87720400.woff") format("woff"), url("//db.onlinewebfonts.com/t/554eb51fb39e99ff974dc72a87720400.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/554eb51fb39e99ff974dc72a87720400.svg#ITC Officina Sans") format("svg");
+    text-align: center;
+    font-size: 600%;
+}
+
+#mudazon-container {
+    height: 100vh;
+}
