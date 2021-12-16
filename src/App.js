@@ -15,12 +15,12 @@ function App() {
           <Menu.Item className="Item"
             name='Home'/>
           </a>
-          <a href="/mudstagram">
+          <a href="/#/mudstagram">
           <Menu.Item id="Mudstagram" className="Item"
             name="Mudstagram"
           />
           </a>
-          <a href="/mudazon">
+          <a href="/#/mudazon">
           <Menu.Item id="Mudazon" className="Item"
             name='Mudazon'
           />
