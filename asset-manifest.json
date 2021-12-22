@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/mudra-sanghvi/static/css/main.839925d6.chunk.css",
-    "main.js": "/mudra-sanghvi/static/js/main.eade1f99.chunk.js",
-    "main.js.map": "/mudra-sanghvi/static/js/main.eade1f99.chunk.js.map",
+    "main.css": "/mudra-sanghvi/static/css/main.b6fe7846.chunk.css",
+    "main.js": "/mudra-sanghvi/static/js/main.f7d724b8.chunk.js",
+    "main.js.map": "/mudra-sanghvi/static/js/main.f7d724b8.chunk.js.map",
     "runtime-main.js": "/mudra-sanghvi/static/js/runtime-main.2d942fec.js",
     "runtime-main.js.map": "/mudra-sanghvi/static/js/runtime-main.2d942fec.js.map",
     "static/js/2.e85799c5.chunk.js": "/mudra-sanghvi/static/js/2.e85799c5.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.c95e2aa0.chunk.js": "/mudra-sanghvi/static/js/3.c95e2aa0.chunk.js",
     "static/js/3.c95e2aa0.chunk.js.map": "/mudra-sanghvi/static/js/3.c95e2aa0.chunk.js.map",
     "index.html": "/mudra-sanghvi/index.html",
-    "static/css/main.839925d6.chunk.css.map": "/mudra-sanghvi/static/css/main.839925d6.chunk.css.map",
+    "static/css/main.b6fe7846.chunk.css.map": "/mudra-sanghvi/static/css/main.b6fe7846.chunk.css.map",
     "static/js/2.e85799c5.chunk.js.LICENSE.txt": "/mudra-sanghvi/static/js/2.e85799c5.chunk.js.LICENSE.txt",
     "static/media/af1.b242bf64.jpeg": "/mudra-sanghvi/static/media/af1.b242bf64.jpeg",
     "static/media/bathroom_selfie.e33e2823.png": "/mudra-sanghvi/static/media/bathroom_selfie.e33e2823.png",
@@ -75,7 +75,7 @@
   "entrypoints": [
     "static/js/runtime-main.2d942fec.js",
     "static/js/2.e85799c5.chunk.js",
-    "static/css/main.839925d6.chunk.css",
-    "static/js/main.eade1f99.chunk.js"
+    "static/css/main.b6fe7846.chunk.css",
+    "static/js/main.f7d724b8.chunk.js"
   ]
 }
