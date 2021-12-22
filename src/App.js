@@ -11,6 +11,7 @@ function App() {
   if (activeItem === "Home") {
     return (
       <div className="OverlayBackground">
+        
         <Menu className="Menu" secondary>
           <Menu.Item
             className="Item"
@@ -36,6 +37,16 @@ function App() {
         </Menu>
 
         <Home />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+        />
+        <link href="http://fonts.cdnfonts.com/css/billabong" rel="stylesheet" />
+        <link
+          href="//db.onlinewebfonts.com/c/554eb51fb39e99ff974dc72a87720400?family=ITC+Officina+Sans"
+          rel="stylesheet"
+          type="text/css"
+        />
       </div>
     );
   }
@@ -67,6 +78,16 @@ function App() {
         </Menu>
 
         <Mudstagram />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+        />
+        <link href="http://fonts.cdnfonts.com/css/billabong" rel="stylesheet" />
+        <link
+          href="//db.onlinewebfonts.com/c/554eb51fb39e99ff974dc72a87720400?family=ITC+Officina+Sans"
+          rel="stylesheet"
+          type="text/css"
+        />
       </div>
     );
   }
@@ -97,6 +118,16 @@ function App() {
           />
         </Menu>
         <Mudazon />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+        />
+        <link href="http://fonts.cdnfonts.com/css/billabong" rel="stylesheet" />
+        <link
+          href="//db.onlinewebfonts.com/c/554eb51fb39e99ff974dc72a87720400?family=ITC+Officina+Sans"
+          rel="stylesheet"
+          type="text/css"
+        />
       </div>
     );
   }

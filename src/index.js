@@ -11,6 +11,7 @@ document.head.appendChild(styleLink);
 
 ReactDOM.render(
   <React.StrictMode>
+
     <App />
   </React.StrictMode>,
   document.getElementById('root')
