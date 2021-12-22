@@ -59,7 +59,7 @@ const pictureMessages = [
   {
     name: "Ansh Sikka",
     message:
-      "Happy birthday Lal Cheeks! So I decided to make something for you. A simple birthday card wouldn't do. So I got creative and built you an experience you will never forget. I wanted to surprise you in a way where all of your friends are present. Check out what I made! I think you'll like it.",
+      "Happy birthday Mudra! So I decided to make something for you. A simple birthday card wouldn't do. So I got creative and built you an experience you will never forget. I wanted to surprise you in a way where all of your friends are present. Check out what I made! I think you'll like it.",
     pictures: [
       { source: smokies },
       { source: home_selfie },
