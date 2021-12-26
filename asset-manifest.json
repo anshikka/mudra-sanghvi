@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mudra-sanghvi/static/css/main.a70582ff.chunk.css",
-    "main.js": "/mudra-sanghvi/static/js/main.8456ff4d.chunk.js",
-    "main.js.map": "/mudra-sanghvi/static/js/main.8456ff4d.chunk.js.map",
+    "main.js": "/mudra-sanghvi/static/js/main.67832ee5.chunk.js",
+    "main.js.map": "/mudra-sanghvi/static/js/main.67832ee5.chunk.js.map",
     "runtime-main.js": "/mudra-sanghvi/static/js/runtime-main.2d942fec.js",
     "runtime-main.js.map": "/mudra-sanghvi/static/js/runtime-main.2d942fec.js.map",
     "static/js/2.e85799c5.chunk.js": "/mudra-sanghvi/static/js/2.e85799c5.chunk.js",
@@ -14,8 +14,9 @@
     "static/js/2.e85799c5.chunk.js.LICENSE.txt": "/mudra-sanghvi/static/js/2.e85799c5.chunk.js.LICENSE.txt",
     "static/media/af1.b242bf64.jpeg": "/mudra-sanghvi/static/media/af1.b242bf64.jpeg",
     "static/media/bbw.85b879b8.jpeg": "/mudra-sanghvi/static/media/bbw.85b879b8.jpeg",
-    "static/media/cake.421b5230.jpeg": "/mudra-sanghvi/static/media/cake.421b5230.jpeg",
     "static/media/car_selfie.c7074ccc.png": "/mudra-sanghvi/static/media/car_selfie.c7074ccc.png",
+    "static/media/champagne.3074b81a.png": "/mudra-sanghvi/static/media/champagne.3074b81a.png",
+    "static/media/chicago.ddf2531b.jpeg": "/mudra-sanghvi/static/media/chicago.ddf2531b.jpeg",
     "static/media/coach_purse.e5db1925.png": "/mudra-sanghvi/static/media/coach_purse.e5db1925.png",
     "static/media/cold.3c9328a2.JPEG": "/mudra-sanghvi/static/media/cold.3c9328a2.JPEG",
     "static/media/mudra-aastha.4b155ce0.jpeg": "/mudra-sanghvi/static/media/mudra-aastha.4b155ce0.jpeg",
@@ -57,8 +58,9 @@
     "static/media/mudra-dad-1.c2721188.JPG": "/mudra-sanghvi/static/media/mudra-dad-1.c2721188.JPG",
     "static/media/mudra-dad-2.d92a3d47.jpeg": "/mudra-sanghvi/static/media/mudra-dad-2.d92a3d47.jpeg",
     "static/media/mudra-dhwani.030d7db5.jpeg": "/mudra-sanghvi/static/media/mudra-dhwani.030d7db5.jpeg",
-    "static/media/mudra-gaby-1.028959ad.png": "/mudra-sanghvi/static/media/mudra-gaby-1.028959ad.png",
-    "static/media/mudra-gaby-2.d8364d85.jpeg": "/mudra-sanghvi/static/media/mudra-gaby-2.d8364d85.jpeg",
+    "static/media/mudra-gaby-1.99acf9fc.jpeg": "/mudra-sanghvi/static/media/mudra-gaby-1.99acf9fc.jpeg",
+    "static/media/mudra-gaby-2.028959ad.png": "/mudra-sanghvi/static/media/mudra-gaby-2.028959ad.png",
+    "static/media/mudra-gaby-3.d8364d85.jpeg": "/mudra-sanghvi/static/media/mudra-gaby-3.d8364d85.jpeg",
     "static/media/mudra-ketul.53dbdaa9.jpg": "/mudra-sanghvi/static/media/mudra-ketul.53dbdaa9.jpg",
     "static/media/mudra-keya.e1b755d6.jpeg": "/mudra-sanghvi/static/media/mudra-keya.e1b755d6.jpeg",
     "static/media/mudra-mom-1.0f4de547.jpeg": "/mudra-sanghvi/static/media/mudra-mom-1.0f4de547.jpeg",
@@ -69,6 +71,7 @@
     "static/media/mudra-neena.52d6de01.jpg": "/mudra-sanghvi/static/media/mudra-neena.52d6de01.jpg",
     "static/media/mudra-nonu.ad3eaa39.jpeg": "/mudra-sanghvi/static/media/mudra-nonu.ad3eaa39.jpeg",
     "static/media/mudra-purav.accf7eef.jpeg": "/mudra-sanghvi/static/media/mudra-purav.accf7eef.jpeg",
+    "static/media/mudra-roshni.223663e0.jpeg": "/mudra-sanghvi/static/media/mudra-roshni.223663e0.jpeg",
     "static/media/mudra-ryan-1.14a0147c.jpeg": "/mudra-sanghvi/static/media/mudra-ryan-1.14a0147c.jpeg",
     "static/media/mudra-ryan-2.7796805d.jpeg": "/mudra-sanghvi/static/media/mudra-ryan-2.7796805d.jpeg",
     "static/media/mudra-ryan-3.1fcf8260.jpeg": "/mudra-sanghvi/static/media/mudra-ryan-3.1fcf8260.jpeg",
@@ -76,16 +79,17 @@
     "static/media/mudra-stuti.bee9db00.jpg": "/mudra-sanghvi/static/media/mudra-stuti.bee9db00.jpg",
     "static/media/mudra-tarang-1.064338fc.jpeg": "/mudra-sanghvi/static/media/mudra-tarang-1.064338fc.jpeg",
     "static/media/mudra-tarang-2.1cf61f5d.jpeg": "/mudra-sanghvi/static/media/mudra-tarang-2.1cf61f5d.jpeg",
+    "static/media/mudra-vrush.77176358.jpeg": "/mudra-sanghvi/static/media/mudra-vrush.77176358.jpeg",
     "static/media/mudra_nonu.b0adcb95.png": "/mudra-sanghvi/static/media/mudra_nonu.b0adcb95.png",
     "static/media/nandini_bday.84975759.png": "/mudra-sanghvi/static/media/nandini_bday.84975759.png",
     "static/media/navy_pier.aff778ba.JPG": "/mudra-sanghvi/static/media/navy_pier.aff778ba.JPG",
     "static/media/smokies.4516153c.png": "/mudra-sanghvi/static/media/smokies.4516153c.png",
-    "static/media/sour_punch.4672b23d.jpeg": "/mudra-sanghvi/static/media/sour_punch.4672b23d.jpeg"
+    "static/media/target.5adc607c.jpeg": "/mudra-sanghvi/static/media/target.5adc607c.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.2d942fec.js",
     "static/js/2.e85799c5.chunk.js",
     "static/css/main.a70582ff.chunk.css",
-    "static/js/main.8456ff4d.chunk.js"
+    "static/js/main.67832ee5.chunk.js"
   ]
 }
