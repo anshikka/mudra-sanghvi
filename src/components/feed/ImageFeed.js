@@ -216,18 +216,6 @@ const pictureMessages = [
     pictures: [{ source: mudra_stuti }],
   },
   {
-    name: "Ansh Sikka",
-    message:
-      "Happy birthday Mudra! So I decided to make something for you. A simple birthday card wouldn't do. So I got creative and built you an experience you will never forget. I wanted to surprise you in a way where all of your friends are present. Check out what I made! I think you'll like it.",
-    pictures: [
-      { source: navy_pier },
-      { source: smokies },
-      { source: car_selfie },
-      { source: nandini_bday },
-      { source: cold },
-    ],
-  },
-  {
     name: "Mom",
     message:
       "Happy b’day to my Angel my sweet and sassy daughter. You taught me real meaning of mommy, everyday make me laugh and you make my world beautiful.",
@@ -256,6 +244,18 @@ const pictureMessages = [
     message:
       "There's a lot of things I can say to you on this great day. I'm going to say the good things. I love whenever you chase me around the house and spoonfeed me. I love that you stay back home to take care of me and keep me busy at all times. Happy birthday big sis! P.S. Please stop picking me up against my will.",
     pictures: [{ source: mudra_bruno_1 }, { source: mudra_bruno_2 }],
+  },
+  {
+    name: "Ansh Sikka",
+    message:
+      "Happy birthday Mudra! So I decided to make something for you. A simple birthday card wouldn't do. So I got creative and built you an experience you will never forget. I wanted to surprise you in a way where all of your friends are present. Check out what I made! I think you'll like it.",
+    pictures: [
+      { source: navy_pier },
+      { source: smokies },
+      { source: car_selfie },
+      { source: nandini_bday },
+      { source: cold },
+    ],
   },
 ];
 

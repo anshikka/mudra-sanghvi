@@ -8,8 +8,7 @@ function Mudstagram() {
       <Header id="mudazon-title" as="h1">
         Mudazon
       </Header>
-      <ShoppingGrid/>
-
+      <ShoppingGrid />
     </Container>
   );
 }
