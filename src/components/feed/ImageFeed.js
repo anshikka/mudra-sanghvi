@@ -57,60 +57,34 @@ import mudra_anuj from "../../assets/images/mudra-anuj/mudra-anuj.jpeg";
 import mudra_aayushi from "../../assets/images/mudra-aayushi/mudra-aayushi.jpeg";
 import mudra_dhwani from "../../assets/images/mudra-dhwani/mudra-dhwani.jpeg";
 import mudra_purav from "../../assets/images/mudra-purav/mudra-purav.jpeg";
-import mudra_gaby_1 from "../../assets/images/mudra-gaby/mudra-gaby-1.png";
-import mudra_gaby_2 from "../../assets/images/mudra-gaby/mudra-gaby-2.jpeg";
+import mudra_gaby_1 from "../../assets/images/mudra-gaby/mudra-gaby-1.jpeg";
+import mudra_gaby_2 from "../../assets/images/mudra-gaby/mudra-gaby-2.png";
+import mudra_gaby_3 from "../../assets/images/mudra-gaby/mudra-gaby-3.jpeg";
 import mudra_nandini from "../../assets/images/mudra-nandini/mudra-nandini.jpeg";
 import mudra_nonu from "../../assets/images/mudra-nonu/mudra-nonu.jpeg";
 import mudra_bruno_1 from "../../assets/images/mudra-bruno/mudra-bruno-1.jpeg";
 import mudra_bruno_2 from "../../assets/images/mudra-bruno/mudra-bruno-2.jpeg";
+import mudra_vrush from "../../assets/images/mudra-vrush/mudra-vrush.jpeg";
+import mudra_roshni from "../../assets/images/mudra-roshni/mudra-roshni.jpeg";
 import "./ImageFeed.css";
 
 const pictureMessages = [
   {
-    name: "Ansh Sikka",
-    message:
-      "Happy birthday Mudra! So I decided to make something for you. A simple birthday card wouldn't do. So I got creative and built you an experience you will never forget. I wanted to surprise you in a way where all of your friends are present. Check out what I made! I think you'll like it.",
-    pictures: [
-      { source: navy_pier },
-      { source: smokies },
-      { source: car_selfie },
-      { source: nandini_bday },
-      { source: cold },
-    ],
+    name: "Vrush Patel",
+    message: "Happy birthday Thomas!",
+    pictures: [{ source: mudra_vrush }],
   },
   {
-    name: "Neena Doshi",
+    name: "Purav Shah",
     message:
-      "Mudra, I know we haven’t known each other that long but it kind of feels like I’ve known you forever. You’re a beautiful person, inside and out. And I’m so glad I met you. I hope you have the best birthday and that I’m there to celebrate it with you, I love you. Cheers to another year 🎉❤️",
-    pictures: [{ source: mudra_neena }],
+      "Our friendship is like Tom and Jerry we would tease and roast each other but will be friends forever. Happy Birthday!",
+    pictures: [{ source: mudra_purav }],
   },
   {
-    name: "Shachi Shah",
+    name: "Roshni Shah",
     message:
-      "Mudra, I hope you have an absolutely wonderful birthday and all your dreams come true. 💛😍Also you better party it up and live your best life 🎉🍾",
-    pictures: [{ source: mudra_shachi }],
-  },
-  {
-    name: "Alouki Shah",
-    message:
-      "Happy birthday to the cutest, sweetest, and most bubbly person I know! Cheers to good times and many more memories together <3 Love you bbg!",
-    pictures: [{ source: mudra_alouki }],
-  },
-  {
-    name: "Ryan Mehta",
-    message:
-      "Happy Birthday Mudra!! Hope you’re just as rowdy today. Always stay young and wild little sis!",
-    pictures: [
-      { source: mudra_ryan_1 },
-      { source: mudra_ryan_2 },
-      { source: mudra_ryan_3 },
-    ],
-  },
-  {
-    name: "Kethul Kothari",
-    message:
-      "Mudra!! I hope you have the most epic birthday. You’re the best young person I know, always full of life and energy lol.  Enjoy, I hope you have an absolute blast!",
-    pictures: [{ source: mudra_ketul }],
+      "Happy Birthday to the most sweetest, energetic, kind hearted girl I know!! Keep smiling beautiful...you got a million dollar smile🥰 Love you forever sista💗!! Cheers to more memories to come 🥂",
+    pictures: [{ source: mudra_roshni }],
   },
   {
     name: "Caroline Cudney",
@@ -150,6 +124,86 @@ const pictureMessages = [
     ],
   },
   {
+    name: "Gabrielle Aranza",
+    message:
+      "Happy birthday Mudra!! 🥳 The world is a better place with you in it! Thank you for your friendship, the never ending pictures of Bruno and for sharing your beautiful culture. You're a baddie with a phatty and I hope you shake it all night 🤪",
+    pictures: [
+      { source: mudra_gaby_1 },
+      { source: mudra_gaby_2 },
+      { source: mudra_gaby_3 },
+    ],
+  },
+  {
+    name: "Nandini Sarup",
+    message:
+      "Happy birthday mudra!! hope you have lots of fun with your friends and family. im so glad i met you this year and we were able to hang out ❤️🥰 i hope you have a great day and take lots of shots 🍾🥂for me!! here’s to more birthdays and celebrations 🥳🎊much love 💗💕 nandini :)",
+    pictures: [{ source: mudra_nandini }],
+  },
+  {
+    name: "Shachi Shah",
+    message:
+      "Mudra, I hope you have an absolutely wonderful birthday and all your dreams come true. 💛😍Also you better party it up and live your best life 🎉🍾",
+    pictures: [{ source: mudra_shachi }],
+  },
+  {
+    name: "Neena Doshi",
+    message:
+      "Mudra, I know we haven’t known each other that long but it kind of feels like I’ve known you forever. You’re a beautiful person, inside and out. And I’m so glad I met you. I hope you have the best birthday and that I’m there to celebrate it with you, I love you. Cheers to another year 🎉❤️",
+    pictures: [{ source: mudra_neena }],
+  },
+  {
+    name: "Alouki Shah",
+    message:
+      "Happy birthday to the cutest, sweetest, and most bubbly person I know! Cheers to good times and many more memories together <3 Love you bbg!",
+    pictures: [{ source: mudra_alouki }],
+  },
+  {
+    name: "Aastha Kodia",
+    message:
+      "Happy Birthday Mudra!! 22 is the best year! Live it up! I am so happy that I met you, you’re like my little sister. Wishing you a birthday with lots of love and happiness forever!! Love you!!! ❤️❤️❤️",
+    pictures: [{ source: mudra_aastha }],
+  },
+  {
+    name: "Ketul Kothari",
+    message:
+      "Mudra!! I hope you have the most epic birthday. You’re the best young person I know, always full of life and energy lol.  Enjoy, I hope you have an absolute blast!",
+    pictures: [{ source: mudra_ketul }],
+  },
+  {
+    name: "Aayushi Pasad",
+    message:
+      "HAPPY BIRTHDAY MUDRA! I hope you have the best day ever! Enjoy this day and celebrate all week long! Sorry I can't be there to celebrate with you but definitely go out and enjoy the day!!! 🥳🥰🤗",
+    pictures: [{ source: mudra_aayushi }],
+  },
+  {
+    name: "Keya Pasad",
+    message:
+      "Happy Birthday Mudra! Here's a low quality image but high quality atom bomb 💣 👌",
+    pictures: [{ source: mudra_keya }],
+  },
+  {
+    name: "Dhwani Shah",
+    message:
+      "Happy birthday Mudra! Hope all your wishes come true! Wish I was able to celebrate in person with you :)",
+    pictures: [{ source: mudra_dhwani }],
+  },
+  {
+    name: "Ryan Mehta",
+    message:
+      "Happy Birthday Mudra!! Hope you’re just as rowdy today. Always stay young and wild little sis!",
+    pictures: [
+      { source: mudra_ryan_1 },
+      { source: mudra_ryan_2 },
+      { source: mudra_ryan_3 },
+    ],
+  },
+  {
+    name: "Anuj Shah",
+    message:
+      "There is no better day than your birthday to express how important and wonderful your friendship is to me.  I'll be eternally grateful that the stars aligned and our paths intertwined as roomies, beginning a totally new friendship in a whole new world for me that would grow into so much more. Girl, you're like a true sister to me who fights and troubles me all day. I'm really sorry I couldn't be there on your birthday, but see you soon. Happy Birthday Mudraaaaaaaa! ❤️",
+    pictures: [{ source: mudra_anuj }],
+  },
+  {
     name: "Tarang Shah",
     message:
       "Happy Birthday Mudra!!!!! Lets party hard and have pesto sandwiches tmr for the hangover!!!",
@@ -162,10 +216,16 @@ const pictureMessages = [
     pictures: [{ source: mudra_stuti }],
   },
   {
-    name: "Aastha Kodia",
+    name: "Ansh Sikka",
     message:
-      "Happy Birthday Mudra!! 22 is the best year! Live it up! I am so happy that I met you, you’re like my little sister. Wishing you a birthday with lots of love and happiness forever!! Love you!!! ❤️❤️❤️",
-    pictures: [{ source: mudra_aastha }],
+      "Happy birthday Mudra! So I decided to make something for you. A simple birthday card wouldn't do. So I got creative and built you an experience you will never forget. I wanted to surprise you in a way where all of your friends are present. Check out what I made! I think you'll like it.",
+    pictures: [
+      { source: navy_pier },
+      { source: smokies },
+      { source: car_selfie },
+      { source: nandini_bday },
+      { source: cold },
+    ],
   },
   {
     name: "Mom",
@@ -184,63 +244,19 @@ const pictureMessages = [
       "Happy Birthday Day to my Life Line. Stay always blessed and joyful.",
     pictures: [{ source: mudra_dad_1 }, { source: mudra_dad_2 }],
   },
-  {
-    name: "Keya Pasad",
-    message:
-      "Happy Birthday Mudra! Here's a low quality image but high quality atom bomb 💣 👌",
-    pictures: [{ source: mudra_keya }],
-  },
-  {
-    name: "Anuj Shah",
-    message:
-      "There is no better day than your birthday to express how important and wonderful your friendship is to me.  I'll be eternally grateful that the stars aligned and our paths intertwined as roomies, beginning a totally new friendship in a whole new world for me that would grow into so much more. Girl, you're like a true sister to me who fights and troubles me all day. I'm really sorry I couldn't be there on your birthday, but see you soon. Happy Birthday Mudraaaaaaaa! ❤️",
-    pictures: [{ source: mudra_anuj }],
-  },
-  {
-    name: "Aayushi Pasad",
-    message:
-      "HAPPY BIRTHDAY MUDRA! I hope you have the best day ever! Enjoy this day and celebrate all week long! Sorry I can't be there to celebrate with you but definitely go out and enjoy the day!!! 🥳🥰🤗",
-    pictures: [{ source: mudra_aayushi }],
-  },
-  {
-    name: "Dhwani Shah",
-    message:
-      "Happy birthday Mudra! Hope all your wishes come true! Wish I was able to celebrate in person with you :)",
-    pictures: [{ source: mudra_dhwani }],
-  },
-  {
-    name: "Purav Shah",
-    message:
-      "Our friendship is like Tom and Jerry we would tease and roast each other but will be friends forever. Happy Birthday!",
-    pictures: [{ source: mudra_purav }],
-  },
-  {
-    name: "Gabrielle Aranza",
-    message:
-      "Happy birthday Mudra!! 🥳 The world is a better place with you in it! Thank you for your friendship, the never ending pictures of Bruno and for sharing your beautiful culture. You're a baddie with a phatty and I hope you shake it all night 🤪",
-    pictures: [{ source: mudra_gaby_1 }, { source: mudra_gaby_2 }],
-  },
-  {
-    name: "Nandini Sarup",
-    message:
-      "Happy birthday mudra!! hope you have lots of fun with your friends and family. im so glad i met you this year and we were able to hang out ❤️🥰 i hope you have a great day and take lots of shots 🍾🥂for me!! here’s to more birthdays and celebrations 🥳🎊much love 💗💕 nandini :)",
-    pictures: [{ source: mudra_nandini }],
-  },
+
   {
     name: "Nonu",
-    message: "Happy Birthday Mudra! Whenever you come over I get really excited to see you because I know I will get extra treats from you. Hope you have a great day and stop by our house to say hi! P.S. Bring treats.",
-    pictures: [
-      {source: mudra_nonu}
-    ]
+    message:
+      "Happy Birthday Mudra! Whenever you come over I get really excited to see you because I know I will get extra treats from you. Hope you have a great day and stop by our house to say hi! P.S. Bring treats.",
+    pictures: [{ source: mudra_nonu }],
   },
   {
     name: "Bruno",
-    message: "There's a lot of things I can say to you on this great day. I'm going to say the good things. I love whenever you chase me around the house and spoonfeed me. I love that you stay back home to take care of me and keep me busy at all times. Happy birthday big sis! P.S. Please stop picking me up against my will.",
-    pictures: [
-      {source: mudra_bruno_1},
-      {source: mudra_bruno_2}
-    ]
-  }
+    message:
+      "There's a lot of things I can say to you on this great day. I'm going to say the good things. I love whenever you chase me around the house and spoonfeed me. I love that you stay back home to take care of me and keep me busy at all times. Happy birthday big sis! P.S. Please stop picking me up against my will.",
+    pictures: [{ source: mudra_bruno_1 }, { source: mudra_bruno_2 }],
+  },
 ];
 
 const feedItems = pictureMessages.map((pMessage) => (
