@@ -10,8 +10,8 @@ function Home() {
         <TextLoop texinterval={2000}>
           <span>Hi </span>
           <span>Happy Birthday</span>
-          <span>T-Swift Says You're 22</span>
-          <span>This One is For You</span>
+          <span>Dumb Ass Bitch</span>
+          <span>Fuck You</span>
         </TextLoop>{" "}
         Mudra
       </Container>

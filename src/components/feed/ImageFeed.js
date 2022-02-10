@@ -66,6 +66,7 @@ import mudra_bruno_1 from "../../assets/images/mudra-bruno/mudra-bruno-1.jpeg";
 import mudra_bruno_2 from "../../assets/images/mudra-bruno/mudra-bruno-2.jpeg";
 import mudra_vrush from "../../assets/images/mudra-vrush/mudra-vrush.jpeg";
 import mudra_roshni from "../../assets/images/mudra-roshni/mudra-roshni.jpeg";
+import mudra_sam from "../../assets/images/mudra-sam/mudra-sam.JPG";
 import "./ImageFeed.css";
 
 const pictureMessages = [
@@ -132,6 +133,13 @@ const pictureMessages = [
       { source: mudra_gaby_2 },
       { source: mudra_gaby_3 },
     ],
+  },
+  {
+    name: "Sam Schwein",
+    message: "Happy birthday mudra, I love you sm and I appreciate you always being there for me whenever I need you💓💓💓",
+    pictures: [
+      {source: mudra_sam}
+    ]
   },
   {
     name: "Nandini Sarup",
