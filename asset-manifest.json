@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mudra-sanghvi/static/css/main.b0dce82b.chunk.css",
-    "main.js": "/mudra-sanghvi/static/js/main.ea75ad35.chunk.js",
-    "main.js.map": "/mudra-sanghvi/static/js/main.ea75ad35.chunk.js.map",
+    "main.js": "/mudra-sanghvi/static/js/main.858b5b1f.chunk.js",
+    "main.js.map": "/mudra-sanghvi/static/js/main.858b5b1f.chunk.js.map",
     "runtime-main.js": "/mudra-sanghvi/static/js/runtime-main.2d942fec.js",
     "runtime-main.js.map": "/mudra-sanghvi/static/js/runtime-main.2d942fec.js.map",
     "static/js/2.e85799c5.chunk.js": "/mudra-sanghvi/static/js/2.e85799c5.chunk.js",
@@ -91,6 +91,6 @@
     "static/js/runtime-main.2d942fec.js",
     "static/js/2.e85799c5.chunk.js",
     "static/css/main.b0dce82b.chunk.css",
-    "static/js/main.ea75ad35.chunk.js"
+    "static/js/main.858b5b1f.chunk.js"
   ]
 }
