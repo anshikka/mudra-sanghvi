@@ -218,12 +218,6 @@ const pictureMessages = [
     pictures: [{ source: mudra_tarang_1 }, { source: mudra_tarang_2 }],
   },
   {
-    name: "Stuti Vaidya",
-    message:
-      "You got such a beautiful and kind heart. You made my life better in so many ways that now I can’t imagine my best days without you by my side. You are the closest friend I’ve and I will always be grateful for you. I love you, keep shining and never change.",
-    pictures: [{ source: mudra_stuti }],
-  },
-  {
     name: "Mom",
     message:
       "Happy b’day to my Angel my sweet and sassy daughter. You taught me real meaning of mommy, everyday make me laugh and you make my world beautiful.",
