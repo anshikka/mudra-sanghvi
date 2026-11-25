@@ -18,10 +18,7 @@ code {
   font-style: normal;
   font-weight: 400;
   src: local("Amazon Ember"),
-    url("https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIFont-amazonember_rg-cc7ebaa05a2cd3b02c0929ac0475a44ab30b7efa._V2_.woff2")
-      format("woff2"),
-    url("https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIFont-amazonember_rg-8a9db402d8966ae93717c348b9ab0bd08703a7a7._V2_.woff")
-      format("woff");
+    url("./assets/fonts/AmazonEmber_Rg.woff2") format("woff2");
 }
 
 @font-face {
@@ -30,10 +27,7 @@ code {
   font-style: normal;
   font-weight: 700;
   src: local("Amazon Ember Bold"),
-    url("https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIFont-amazonember_bd-46b91bda68161c14e554a779643ef4957431987b._V2_.woff2")
-      format("woff2"),
-    url("https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIFont-amazonember_bd-b605252f87b8b3df5ae206596dac0938fc5888bc._V2_.woff")
-      format("woff");
+    url("./assets/fonts/AmazonEmber_Bd.woff2") format("woff2");
 }
 
 @font-face {
@@ -42,10 +36,7 @@ code {
   font-style: italic;
   font-weight: 400;
   src: local("Amazon Ember Italic"),
-    url("https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIFont-amazonember_rgit-9cc1bb64eb270135f1adf3a4881c2ee5e7c37be5._V2_.woff2")
-      format("woff2"),
-    url("https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIFont-amazonember_rgit-a4dc98d644ff2aedd41da3da462f09ffce86eafb._V2_.woff")
-      format("woff");
+    url("./assets/fonts/AmazonEmber_RgIt.woff2") format("woff2");
 }
 
 @font-face {

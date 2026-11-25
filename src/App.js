@@ -1,6 +1,7 @@
 import Home from "./components/pages/Home";
 import Mudstagram from "./components/pages/Mudstagram";
 import Mudazon from "./components/pages/Mudazon";
+import AmazonWordmark from "./components/AmazonWordmark";
 import { Menu } from "semantic-ui-react";
 import { useState } from "react";
 import "./App.css";
@@ -32,7 +33,9 @@ function App() {
             name="Mudazon"
             active={activeItem === "Mudazon"}
             onClick={() => setActiveItem("Mudazon")}
-          />
+          >
+            <AmazonWordmark />
+          </Menu.Item>
         </Menu>
 
         <Home />
@@ -63,7 +66,9 @@ function App() {
             name="Mudazon"
             active={activeItem === "Mudazon"}
             onClick={() => setActiveItem("Mudazon")}
-          />
+          >
+            <AmazonWordmark />
+          </Menu.Item>
         </Menu>
 
         <Mudstagram />
@@ -94,7 +99,9 @@ function App() {
             name="Mudazon"
             active={activeItem === "Mudazon"}
             onClick={() => setActiveItem("Mudazon")}
-          />
+          >
+            <AmazonWordmark />
+          </Menu.Item>
         </Menu>
         <Mudazon />
       </div>
