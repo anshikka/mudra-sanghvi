@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/mudra-sanghvi/static/css/main.7cbc531a.chunk.css",
-    "main.js": "/mudra-sanghvi/static/js/main.ad296a59.chunk.js",
-    "runtime-main.js": "/mudra-sanghvi/static/js/runtime-main.76d98973.js",
-    "static/js/2.284a418e.chunk.js": "/mudra-sanghvi/static/js/2.284a418e.chunk.js",
-    "static/js/3.ac5da0e6.chunk.js": "/mudra-sanghvi/static/js/3.ac5da0e6.chunk.js",
+    "main.css": "/mudra-sanghvi/static/css/main.004366d1.chunk.css",
+    "main.js": "/mudra-sanghvi/static/js/main.86d12c57.chunk.js",
+    "runtime-main.js": "/mudra-sanghvi/static/js/runtime-main.70acd129.js",
+    "static/js/2.f2bc4546.chunk.js": "/mudra-sanghvi/static/js/2.f2bc4546.chunk.js",
+    "static/js/3.1ac5a946.chunk.js": "/mudra-sanghvi/static/js/3.1ac5a946.chunk.js",
     "index.html": "/mudra-sanghvi/index.html",
-    "static/js/2.284a418e.chunk.js.LICENSE.txt": "/mudra-sanghvi/static/js/2.284a418e.chunk.js.LICENSE.txt",
+    "static/js/2.f2bc4546.chunk.js.LICENSE.txt": "/mudra-sanghvi/static/js/2.f2bc4546.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mudra-sanghvi/static/media/AmazonEmber_RgIt.a7fc1fa5.woff2",
     "static/media/af1.b242bf64.jpeg": "/mudra-sanghvi/static/media/af1.b242bf64.jpeg",
     "static/media/bbw.85b879b8.jpeg": "/mudra-sanghvi/static/media/bbw.85b879b8.jpeg",
     "static/media/car_selfie.c7074ccc.png": "/mudra-sanghvi/static/media/car_selfie.c7074ccc.png",
@@ -83,9 +84,9 @@
     "static/media/target.5adc607c.jpeg": "/mudra-sanghvi/static/media/target.5adc607c.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.76d98973.js",
-    "static/js/2.284a418e.chunk.js",
-    "static/css/main.7cbc531a.chunk.css",
-    "static/js/main.ad296a59.chunk.js"
+    "static/js/runtime-main.70acd129.js",
+    "static/js/2.f2bc4546.chunk.js",
+    "static/css/main.004366d1.chunk.css",
+    "static/js/main.86d12c57.chunk.js"
   ]
 }
